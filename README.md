@@ -75,7 +75,7 @@ Have an awesome idea for a new command? We'd love to hear about it, no matter ho
 
 ### Writing code
 
-If you know how to code in JavaScript, then feel free to give [one of the existent ideas](https://github.com/SwitchbladeBot/switchblade/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22type%3A+idea%22+) a try. [Fork this repository](https://github.com/SwitchbladeBot/switchblade/fork), make some changes and then open a pull request! We don't really have much documentation on how the bot ecosystem works, but you should be able to get it with a quick look under the hood.
+If you know how to code in [JavaScript](https://www.scaler.com/topics/javascript/), then feel free to give [one of the existent ideas](https://github.com/SwitchbladeBot/switchblade/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22type%3A+idea%22+) a try. [Fork this repository](https://github.com/SwitchbladeBot/switchblade/fork), make some changes and then open a pull request! We don't really have much documentation on how the bot ecosystem works, but you should be able to get it with a quick look under the hood.
 
 > ⚠ **Please don't open Pull Requests with features that haven't been discussed as issues yet.** We don't want you to waste time writing a feature that might get denied. If you have an idea and want it to be in the bot, check the [Ideas and discussion](#ideas-and-discussion) paragraph above.
 
